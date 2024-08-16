@@ -1,0 +1,26 @@
+html {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 400;
+}
+
+.header {
+  padding-top: 32px;
+  padding-bottom: 24px;
+}
+
+.header__row {
+  max-width: 1290px;
+  margin: 0 auto;
+}
+
+.header__grid {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__center,
+.header__right {
+  font-size: 24px;
+  line-height: 34px;
+}
