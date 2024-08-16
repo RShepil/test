@@ -1,1 +1,1 @@
-https://rshepil.github.io/test/index.html
+https://rshepil.github.io/test/public/index.html
